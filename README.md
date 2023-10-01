@@ -1,5 +1,5 @@
 # NLP Project using NLTK 
 
-Datasets: 
+Dataset: Google App Reviews (Web scraping) 
 
-This is a project that was implemented as a part of my Software Requirements Engineering course in my university. Exploratory data analysis was performed on the following datasets. The two split ratios of training, validation and test: 80-10-10 and 60-20-20 were used for analyzing the dataset. Linear Regression, Support Vector Machine and Random Forest algorithms were used to implement GridSearchCV to find optimal hyperparameters.
+Natural Language Processing approach using NLTK library was used to extract relevant data from Google Reviews for specific apps. Sentiment analysis was performed to assess the tone of the reviews. LDA was used to rank the common topics that were present in the reviews. 
